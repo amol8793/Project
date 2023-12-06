@@ -1,0 +1,8 @@
+Data migration is the process of moving data from one system to another.
+The primary objective of this project to handle lossless data.
+Migrate Data from CSV file to MySQL and Postgres using Spark.
+It will create an efficient and secure data pipeline.
+It will help Data Scientist,Analyst,Engineer to get more clean and migrate data.
+
+
+
